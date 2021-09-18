@@ -1,0 +1,12 @@
+{
+	"name": "Java publish",
+	"description": "Workflow template for publishing Java packages to GitHub Packages.",
+	"iconName": "java-publish.svg",
+	"categories": [
+		"Java"
+	],
+	"filePatterns": [
+		"^gradle*",
+		"*.gradle$"
+	]
+}

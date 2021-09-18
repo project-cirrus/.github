@@ -1,0 +1,12 @@
+{
+	"name": "Java CodeQL",
+	"description": "Workflow template for running Java CodeQL analysis.",
+	"iconName": "java-codeql.svg",
+	"categories": [
+		"Java"
+	],
+	"filePatterns": [
+		"^gradle*",
+		"*.gradle$"
+	]
+}
